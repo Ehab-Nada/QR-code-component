@@ -1,0 +1,1 @@
+echo "# QR-code-component" 
