@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component - by Ehab Nada
 
-## the live server of this project https://hopamnada.github.io/QR-code-component/
+## The live server of this project https://hopamnada.github.io/QR-code-component/
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
